@@ -1,2 +1,2 @@
 # docker-basic
-Basic Docker setup
+Basic Docker practice
